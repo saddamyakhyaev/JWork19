@@ -65,7 +65,7 @@
 *Пример:* SALESREPORT iphone 02.03.2017
 
 
-## Пример потока команд
+## Пример команд
 
 NEWPRODUCT iphone  
 NEWPRODUCT iphone  
