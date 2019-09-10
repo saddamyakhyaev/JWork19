@@ -33,15 +33,15 @@ public class Program {
         if(words.length == 0) return null;
         Command cm = null;
 
-        if (NewProductCommand.COMMNAME.equals(words[0])) {
+        if (NewProductCommand.COMMNAME.equalsIgnoreCase(words[0])) {
             cm = new NewProductCommand(setting);
-        }else if (PurchaseCommand.COMMNAME.equals(words[0])) {
+        }else if (PurchaseCommand.COMMNAME.equalsIgnoreCase(words[0])) {
             cm = new PurchaseCommand(setting);
-        }else if (DemandCommand.COMMNAME.equals(words[0])) {
+        }else if (DemandCommand.COMMNAME.equalsIgnoreCase(words[0])) {
             cm = new DemandCommand(setting);
-        }else if (SalesReportCommand.COMMNAME.equals(words[0])) {
+        }else if (SalesReportCommand.COMMNAME.equalsIgnoreCase(words[0])) {
             cm = new SalesReportCommand(setting);
-        } if (CloseCommand.COMMNAME.equals(words[0])) {
+        } if (CloseCommand.COMMNAME.equalsIgnoreCase(words[0])) {
             cm = new CloseCommand(setting);
         }
 
