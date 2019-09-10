@@ -67,12 +67,12 @@
 
 ## Пример потока команд
 
-NEWPRODUCT iphone
-NEWPRODUCT iphone
-PURCHASE iphone 1 1000 01.01.2017
-PURCHASE iphone 2 2000 01.02.2017
-DEMAND iphone 2 5000 01.03.2017
-SALESREPORT iphone 02.03.2017
+NEWPRODUCT iphone  
+NEWPRODUCT iphone  
+PURCHASE iphone 1 1000 01.01.2017  
+PURCHASE iphone 2 2000 01.02.2017  
+DEMAND iphone 2 5000 01.03.2017  
+SALESREPORT iphone 02.03.2017  
 
 *Ответ:* 
 
