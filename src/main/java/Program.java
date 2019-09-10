@@ -41,8 +41,9 @@ public class Program {
             cm = new DemandCommand(setting);
         }else if (SalesReportCommand.COMMNAME.equalsIgnoreCase(words[0])) {
             cm = new SalesReportCommand(setting);
-        } if (CloseCommand.COMMNAME.equalsIgnoreCase(words[0])) {
+        } if (CloseCommand.COMMNAME.equalsIgnoreCase(words[0]))  {
             cm = new CloseCommand(setting);
+            
         }
 
 
