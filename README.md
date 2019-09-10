@@ -4,10 +4,10 @@
 стандартного ввода:
 
 #### Список команд
-- NEWPRODUCT - Создать товар [click on this link](#NEWPRODUCT)
-- PURCHASE - Закупить товар
-- DEMAND - Продать -o товар
-- SALESREPORT - Рассчитать прибыльность
+- [NEWPRODUCT](#NEWPRODUCT) - Создать товар 
+- [PURCHASE](#PURCHASE) - Закупить товар
+- [DEMAND](#DEMAND) - Продать -o товар
+- [SALESREPORT](#SALESREPORT) - Рассчитать прибыльность
 
 Результат обработки команды - либо **OK**, либо **ERROR**, либо
 значение, - выводятся в стандартный поток вывода.
