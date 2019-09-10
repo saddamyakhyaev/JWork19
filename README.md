@@ -76,10 +76,10 @@ SALESREPORT iphone 02.03.2017
 
 *Ответ:* 
 
-OK
-ERROR
-OK
-OK
-OK
-7000
+OK  
+ERROR  
+OK  
+OK  
+OK  
+7000  
 
