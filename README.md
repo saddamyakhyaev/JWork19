@@ -73,7 +73,7 @@ PURCHASE iphone 2 2000 01.02.2017
 DEMAND iphone 2 5000 01.03.2017  
 SALESREPORT iphone 02.03.2017  
 
-*Ответ:* 
+*Ответы:* 
 
 OK  
 ERROR  
