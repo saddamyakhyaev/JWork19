@@ -4,9 +4,9 @@
 стандартного ввода:
 
 #### Список команд
-- NEWPRODUCT - Создать товар
+- NEWPRODUCT - Создать товар [click on this link](#NEWPRODUCT)
 - PURCHASE - Закупить товар
-- --toc DEMAND - Продать -o товар
+- DEMAND - Продать -o товар
 - SALESREPORT - Рассчитать прибыльность
 
 Результат обработки команды - либо **OK**, либо **ERROR**, либо
