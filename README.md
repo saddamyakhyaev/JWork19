@@ -82,3 +82,5 @@ OK
 OK  
 7000  
 
+![Альтернативный текст](https://armini.ru/files/1.png)
+
